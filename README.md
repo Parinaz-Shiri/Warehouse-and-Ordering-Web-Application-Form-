@@ -11,7 +11,7 @@ The project involves the development of a web application for managing warehouse
 Below is the class diagram for the project:
 
 <div style= "align-items: center; float: left;">  
-    <img src="Class-Diagram.png" alt="Class Diagram" width="900" height="700" style="float: left;"/> &nbsp; &nbsp; 
+    <img src="Class-Diagram.jpg" alt="Class Diagram" width="900" height="700" style="float: left;"/> &nbsp; &nbsp; 
     </div> &nbsp; &nbsp;
 
 ### **Explanation of Code Flow:**

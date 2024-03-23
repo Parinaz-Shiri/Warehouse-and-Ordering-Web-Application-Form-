@@ -10,7 +10,9 @@ The project involves the development of a web application for managing warehouse
 
 Below is the class diagram for the project:
 
-\[Insert class diagram here\]
+<div style= "align-items: center; float: left;">  
+    <img src="Class-Diagram.png" alt="Class Diagram" width="900" height="700" style="float: left;"/> &nbsp; &nbsp; 
+    </div> &nbsp; &nbsp;
 
 ### **Explanation of Code Flow:**
 
@@ -42,3 +44,7 @@ Below is the class diagram for the project:
 ### **Conclusion:**
 
 This project implements a comprehensive web application for warehouse management and product ordering. It includes user authentication, inventory management, ordering functionality, and payment processing. 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
